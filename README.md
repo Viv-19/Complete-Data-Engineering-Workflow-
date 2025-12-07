@@ -204,25 +204,7 @@ git remote set-url origin https://github.com/rv-ethereal/Data_Mining_LAB.git
 
 
 
-## 👥 Contributors
 
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=rv-ethereal/Data_Mining_LAB" alt="Contributors"/>
-</p>
-
-[![Contributors](https://img.shields.io/github/contributors/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](https://github.com/rv-ethereal/Data_Mining_LAB/graphs/contributors)
-
-
-
----
-
-## 📞 Contact
-
-**Student:** *Add your name here*
-
-**Enrollment no:** *Add your name here*
-
-**Instructor:** Prof. Sandeep Kumar Srivastava
 
 **Repository:** [https://github.com/rv-ethereal/Data_Mining_LAB](https://github.com/rv-ethereal/Data_Mining_LAB)
 
