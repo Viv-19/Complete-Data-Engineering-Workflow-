@@ -1,32 +1,6 @@
-# 🚀 On-Premise Data Lake with Apache Spark ETL, Apache Airflow Orchestration & Apache Superset Dashboards
+#  On-Premise Data Lake with Apache Spark ETL, Apache Airflow Orchestration & Apache Superset Dashboards
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Logo" width="120" height="120">
-</p>
 
-<div align="center">
-
-**Data Mining Laboratory Project**
-
-**Under the guidance of *Prof. Sandeep Kumar Srivastava***
-
-</div>
-
----
-
-[![Repo Stars](https://img.shields.io/github/stars/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](https://github.com/rv-ethereal/Data_Mining_LAB/stargazers)
-[![Repo Forks](https://img.shields.io/github/forks/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](https://github.com/rv-ethereal/Data_Mining_LAB/network/members)
-[![Repo Issues](https://img.shields.io/github/issues/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](https://github.com/rv-ethereal/Data_Mining_LAB/issues)
-[![Contributors](https://img.shields.io/github/contributors/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](https://github.com/rv-ethereal/Data_Mining_LAB/graphs/contributors)
-[![License](https://img.shields.io/github/license/rv-ethereal/Data_Mining_LAB?style=for-the-badge)](LICENSE)
-
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0MjFtc2tjNWliOGpwbjlsc250NnJ2dHdlcjNiMXRmcGluOHl2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTO8QA0mX2Cfw5vhkp/giphy.gif" width="700" alt="data-engineering-gif"/>
-</p>
-
----
 
 ## ✨ Project Summary
 
